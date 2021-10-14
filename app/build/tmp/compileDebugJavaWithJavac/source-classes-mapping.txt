@@ -1,0 +1,2 @@
+com/example/hipotenusa/BuildConfig.java
+ com.example.hipotenusa.BuildConfig

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hipotenusa</string>
+    <string name="lado_a">Cateto A:</string>
+    <string name="el_resultado_es">El resultado es:</string>
+    <string name="lado_b">Cateto B:</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="campos_vacios">Existen campos vacíos</string>
+</resources>
